@@ -1,0 +1,8 @@
+numpy
+matplotlib
+tifffile
+imagecodecs
+jupyterlab>=3.0
+ipywidgets
+napari
+dvc[gdrive]
