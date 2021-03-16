@@ -1,0 +1,1 @@
+Intermediate file formats, generated in the process of cleaning/organizing/extracting/joining data.
