@@ -27,6 +27,18 @@ Once the python packages are installed, the data can be downloaded to the data/r
 
 ```
 dvc pull
+or 
+python -m dvc pul
+```
+
+To install upgrade package __=the package you want to upgrade 
+```
+pip install --upgrade ___ --user 
+```
+
+To show which version of package 
+```
+pip show __
 ```
 
 
