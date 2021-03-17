@@ -31,6 +31,12 @@ Once the python packages are installed, the data can be downloaded to the data/r
 
 ```
 dvc pull
+
+```or 
+
+python -m dvc pull
+
+
 ```
-
-
+pip install --upgrade jupyterlab --user
+pip show jupyterlab
