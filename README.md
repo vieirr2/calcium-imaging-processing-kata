@@ -1,5 +1,9 @@
 # Calcium Imaging: Cell Detection and Signal Extraction Exercise
 
+## Goal
+
+
+
 ## Setup
 
 ### Clone the Repo
